@@ -12,6 +12,7 @@ This project practices:
 - Automation using shell scripts
 
 ## 📂 Project Structure
+```
 file_project/
 ├── all_files.txt
 ├── big_files.txt
@@ -33,6 +34,7 @@ file_project/
     ├── 2.png
     ├── 3.png
     └── 4.png
+```
 
 
 ## ⚙️ Features
