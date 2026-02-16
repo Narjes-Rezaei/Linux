@@ -13,11 +13,26 @@ This project practices:
 
 ## 📂 Project Structure
 file_project/
-├── manage_files.sh
+├── all_files.txt
+├── big_files.txt
+├── file10.txt
 ├── file1.txt
 ├── file2.txt
-├── ...
-├── file10.txt
+├── file3.txt
+├── file4.txt
+├── file5.txt
+├── file6.txt
+├── file7.txt
+├── file8.txt
+├── file9.txt
+├── file_list.txt
+├── manage_files.sh
+├── README.md
+└── Visual_Documentation/
+    ├── 1.png
+    ├── 2.png
+    ├── 3.png
+    └── 4.png
 
 
 ## ⚙️ Features
