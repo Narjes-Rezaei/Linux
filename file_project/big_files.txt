@@ -1,0 +1,8 @@
+files more than 10 lines:
+all_files.txt (115 lines)
+file10.txt (12 lines)
+file6.txt (12 lines)
+file7.txt (12 lines)
+file8.txt (12 lines)
+file9.txt (12 lines)
+file_list.txt (14 lines)

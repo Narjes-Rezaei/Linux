@@ -1,0 +1,115 @@
+
+Linux is one of the most important operating systems in modern computing.
+It powers servers, cloud infrastructure, and embedded systems.
+Developers prefer Linux because of its flexibility and performance.
+The command line interface provides deep system control.
+Understanding file systems is critical for administration.
+Automation through Bash saves time and reduces human error.
+System monitoring ensures stable performance.
+Security tools protect servers from unauthorized access.
+Linux encourages learning and experimentation.
+It is widely used in cybersecurity and networking.
+Open-source communities constantly improve the ecosystem.
+Mastering Linux opens many career opportunities.
+Linux is a powerful operating system used worldwide.
+It is known for its stability and flexibility.
+Many servers run on Linux because it is secure.
+Learning Linux improves problem-solving skills.
+The terminal allows full system control.
+Open-source software encourages collaboration.
+Bash scripting helps automate tasks.
+Linux is essential for DevOps and networking.
+Linux is a powerful operating system used worldwide.
+It is known for its stability and flexibility.
+Many servers run on Linux because it is secure.
+Learning Linux improves problem-solving skills.
+The terminal allows full system control.
+Open-source software encourages collaboration.
+Bash scripting helps automate tasks.
+Linux is essential for DevOps and networking.
+Linux is a powerful operating system used worldwide.
+It is known for its stability and flexibility.
+Many servers run on Linux because it is secure.
+Learning Linux improves problem-solving skills.
+The terminal allows full system control.
+Open-source software encourages collaboration.
+Bash scripting helps automate tasks.
+Linux is essential for DevOps and networking.
+Linux is a powerful operating system used worldwide.
+It is known for its stability and flexibility.
+Many servers run on Linux because it is secure.
+Learning Linux improves problem-solving skills.
+The terminal allows full system control.
+Open-source software encourages collaboration.
+Bash scripting helps automate tasks.
+Linux is essential for DevOps and networking.
+Linux is a powerful operating system used worldwide.
+It is known for its stability and flexibility.
+Many servers run on Linux because it is secure.
+Learning Linux improves problem-solving skills.
+The terminal allows full system control.
+Open-source software encourages collaboration.
+Bash scripting helps automate tasks.
+Linux is essential for DevOps and networking.
+Linux is one of the most important operating systems in modern computing.
+It powers servers, cloud infrastructure, and embedded systems.
+Developers prefer Linux because of its flexibility and performance.
+The command line interface provides deep system control.
+Understanding file systems is critical for administration.
+Automation through Bash saves time and reduces human error.
+System monitoring ensures stable performance.
+Security tools protect servers from unauthorized access.
+Linux encourages learning and experimentation.
+It is widely used in cybersecurity and networking.
+Open-source communities constantly improve the ecosystem.
+Mastering Linux opens many career opportunities.
+Linux is one of the most important operating systems in modern computing.
+It powers servers, cloud infrastructure, and embedded systems.
+Developers prefer Linux because of its flexibility and performance.
+The command line interface provides deep system control.
+Understanding file systems is critical for administration.
+Automation through Bash saves time and reduces human error.
+System monitoring ensures stable performance.
+Security tools protect servers from unauthorized access.
+Linux encourages learning and experimentation.
+It is widely used in cybersecurity and networking.
+Open-source communities constantly improve the ecosystem.
+Mastering Linux opens many career opportunities.
+Linux is one of the most important operating systems in modern computing.
+It powers servers, cloud infrastructure, and embedded systems.
+Developers prefer Linux because of its flexibility and performance.
+The command line interface provides deep system control.
+Understanding file systems is critical for administration.
+Automation through Bash saves time and reduces human error.
+System monitoring ensures stable performance.
+Security tools protect servers from unauthorized access.
+Linux encourages learning and experimentation.
+It is widely used in cybersecurity and networking.
+Open-source communities constantly improve the ecosystem.
+Mastering Linux opens many career opportunities.
+Linux is one of the most important operating systems in modern computing.
+It powers servers, cloud infrastructure, and embedded systems.
+Developers prefer Linux because of its flexibility and performance.
+The command line interface provides deep system control.
+Understanding file systems is critical for administration.
+Automation through Bash saves time and reduces human error.
+System monitoring ensures stable performance.
+Security tools protect servers from unauthorized access.
+Linux encourages learning and experimentation.
+It is widely used in cybersecurity and networking.
+Open-source communities constantly improve the ecosystem.
+Mastering Linux opens many career opportunities.
+list of files:
+all_files.txt
+big_files.txt
+file10.txt
+file1.txt
+file2.txt
+file3.txt
+file4.txt
+file5.txt
+file6.txt
+file7.txt
+file8.txt
+file9.txt
+file_list.txt
