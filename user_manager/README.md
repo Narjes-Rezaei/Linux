@@ -43,7 +43,7 @@ sudo ./add_user.sh
 
 sudo ./delete_user.sh
 
-
+```
 ⚠️ Note: Always run with root permissions for proper user and group creation/deletion.
 
 🌟 Features
