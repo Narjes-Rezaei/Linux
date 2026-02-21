@@ -1,0 +1,35 @@
+Sun Feb 22 01:21:32 AM KST 2026 - Backup created: Backups/Backup_.tar.gz
+Sun Feb 22 01:23:21 AM KST 2026 - Backup created: Backups/Backup_2026-02-22_01-23-21.tar.gz
+Sun Feb 22 01:28:23 AM KST 2026 - Backup created: Backups/Backup_2026-02-22_01-28-23.tar.gz
+Sun Feb 22 01:45:00 AM KST 2026 - Backup created: Backups/Backup_2026-02-22_01-45-00.tar.gz
+Sun Feb 22 01:46:56 AM KST 2026 - Backup created: Backups/Backup_2026-02-22_01-46-56.tar.gz
+Sun Feb 22 01:47:00 AM KST 2026 - Backup created: Backups/Backup_2026-02-22_01-47-00.tar.gz
+Sun Feb 22 01:47:02 AM KST 2026 - Backup created: Backups/Backup_2026-02-22_01-47-02.tar.gz
+Sun Feb 22 01:47:03 AM KST 2026 - Backup created: Backups/Backup_2026-02-22_01-47-03.tar.gz
+Sun Feb 22 03:40:24 AM KST 2026 - Backup created: Backups/Backup_2026-02-22_03-40-24.tar.gz
+Sun Feb 22 04:41:29 AM KST 2026 - Backup created: Backups/Backup_2026-02-22_04-41-29.tar.gz
+Sun Feb 22 04:44:32 AM KST 2026 - Backup created: Backups/Backup_2026-02-22_04-44-32.tar.gz
+Sun Feb 22 04:44:32 AM KST 2026 - Deleting old backups...
+Sun Feb 22 04:44:32 AM KST 2026 - Deleted: Backups/Backup_2026-02-22_01-47-00.tar.gz
+Sun Feb 22 04:44:32 AM KST 2026 - Deleted: Backups/Backup_2026-02-22_01-46-56.tar.gz
+Sun Feb 22 04:57:08 AM KST 2026 - Backup created: Backups/Backup_2026-02-22_04-57-08.tar.gz
+Sun Feb 22 04:57:08 AM KST 2026 - Deleting old backups...
+Sun Feb 22 04:57:08 AM KST 2026 - Deleted: Backups/Backup_2026-02-22_01-47-02.tar.gz
+Sun Feb 22 05:06:11 AM KST 2026 - Backup created: Backups/Backup_2026-02-22_05-06-11.tar.gz\e[0m
+Sun Feb 22 05:06:11 AM KST 2026 - Deleting old backups...
+Sun Feb 22 05:06:11 AM KST 2026 - Deleted: Backups/Backup_2026-02-22_01-47-03.tar.gz
+Sun Feb 22 05:11:20 AM KST 2026 - Backup created: Backups/Backup_2026-02-22_05-11-20.tar.gz\e[0m
+Sun Feb 22 05:11:20 AM KST 2026 - Deleting old backups...
+Sun Feb 22 05:11:20 AM KST 2026 - Deleted: Backups/Backup_2026-02-22_03-40-24.tar.gz
+Sun Feb 22 05:12:44 AM KST 2026 - Backup created: Backups/Backup_2026-02-22_05-12-44.tar.gz\033[0m
+Sun Feb 22 05:12:44 AM KST 2026 - Deleting old backups...
+Sun Feb 22 05:12:44 AM KST 2026 - Deleted: Backups/Backup_2026-02-22_04-41-29.tar.gz
+Sun Feb 22 05:23:46 AM KST 2026 - Backup created: Backups/Backup_2026-02-22_05-23-46.tar.gz[0m
+Sun Feb 22 05:23:46 AM KST 2026 - Deleting old backups...
+Sun Feb 22 05:23:46 AM KST 2026 - Deleted: Backups/Backup_2026-02-22_04-44-32.tar.gz
+Sun Feb 22 05:27:20 AM KST 2026 - Backup FAILED
+Sun Feb 22 05:27:20 AM KST 2026 - Deleting old backups...
+Sun Feb 22 05:27:20 AM KST 2026 - Deleted: Backups/Backup_2026-02-22_04-57-08.tar.gz
+Sun Feb 22 05:29:30 AM KST 2026 - Backup created: Backups/Backup_2026-02-22_05-29-30.tar.gz[0m
+Sun Feb 22 05:29:30 AM KST 2026 - Deleting old backups...
+Sun Feb 22 05:29:30 AM KST 2026 - Deleted: Backups/Backup_2026-02-22_05-06-11.tar.gz
