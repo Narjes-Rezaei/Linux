@@ -1,0 +1,39 @@
+#!/bin/bash
+#
+#
+#
+#############################
+# Linux Monitoring Tool
+# ###########################
+#
+#
+echo "============================="
+echo "Linux Syetem Monitoring Tool "
+echo "============================="
+echo ""
+
+CPU=$(top -bn1 | grep "Cpu(s)" | awk '{print 100 - $8}')
+echo "CPU Usage: $CPU%"
+
+
+RAM=$(free | awk '/Mem:/ {printf("%.2f"), $3/$2 * 100}')
+echo "RAM Usage: $RAM%"
+
+
+#DISK=$(df -h / | awk 'NR==2 {print $5}')
+DISK=$(df -h / | grep -o '[0-9]\+%')
+echo "Disk Usage: $DISK"
+
+
+
+echo ""
+UPTIME=$(uptime -p)
+echo "Uptime: $UPTIME"
+
+
+USERS=$(who | wc -l)
+echo "Logged Users: $USERS"
+
+
+TOP_PROCESS=$(ps -eo comm --sort=-%cpu | head -2 | tail -1)
+echo "Top Process: $TOP_PROCESS"
