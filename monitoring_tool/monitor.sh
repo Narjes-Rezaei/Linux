@@ -11,6 +11,7 @@
 GREEN="\e[32m"
 YELLOW="\e[33m"
 WHITE="\e[37m"
+RED="\e[31m"
 NC="\e[0m"
 #
 #
@@ -18,11 +19,10 @@ NC="\e[0m"
 
 while true
 do
-
-
-  if [[ "$FIRST_RUN" = false ]]; then
-    printf "\033[18A"
-  fi
+  clear
+ # if [[ "$FIRST_RUN" = false ]]; then
+ #   printf "\033[26A"
+ # fi
 
   CPU=$(top -bn1 | grep "Cpu(s)" | awk '{print 100 - $8}')
   RAM=$(free | awk '/Mem:/ {printf("%.2f"), $3/$2 * 100}')
@@ -83,8 +83,27 @@ do
 
   TOP_PROCESS=$(ps -eo comm,%cpu --sort=-%cpu | head -2 | tail -1)
   echo -e "${GREEN}Top Process:${NC} $TOP_PROCESS"
+  printf "\n"
 
-  FIRST_RUN=false
+################ Log ########################
+   LAST_LOG=$(journalctl -n 1 --no-pager | tail -1)
+   echo -e "${WHITE}Last Log:${NC} $LAST_LOG"
+   ERROR_COUNT=$(journalctl -p err --since "1 hour ago" --no-pager -q | wc -l)
+   echo -e "${RED}Recent Error:${NC} $ERROR_COUNT"
+   if [[ "$ERROR_COUNT" -gt 0 ]]; then
+     LAST_ERROR=$(journalctl -p err --since "1 hour ago" -n 1 --no-pager | tail -1)
+     ERROR_STATUS="${RED}SYSTEM ERRORS DETECTED 🚨${NC}"
+     echo -e "${RED}Last Error:${NC} $LAST_ERROR"
+
+    else
+      ERROR_STATUS="${GREEN}NO ERRORS${NC}"
+   fi
+
+   printf "\n"
+   echo -e "${WHITE}System Log Status:${NC} $ERROR_STATUS"
+
+
+ # FIRST_RUN=false
 
   sleep 2
 done
