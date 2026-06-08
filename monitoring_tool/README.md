@@ -83,7 +83,7 @@ grep
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Narjes-Rezaei/Linux.git>
 cd monitoring_tool
 ```
 
